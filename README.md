@@ -11,34 +11,34 @@ fonte: http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegat
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5152_1_file.pdf
 
 ### Report da estrarre
-Report 19
+Report 19<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-09/covid-19-cts-verbale-109-20200926.pdf
 
-Report 18
+Report 18<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-09/covid-19-cts-verbale-108-20200918.pdf
 
-Report 17
+Report 17<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-09/covid-19-cts-verbale-107-20200915.pdf
 
-Report 16
+Report 16<br/>
 fonte: http://www.quotidianosanita.it/allegati/allegato967732.pdf
 
-Report 15
+Report 15<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-08/covid-19-cts-verbale-103-20200828.pdf
 
-Report 12
+Report 12<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-08/covid-19-cts-verbale-099-20200806.pdf
 
-Report 11
+Report 11<br/>
 fonte: http://www.quotidianosanita.it/allegati/allegato7929811.pdf
 
-Report 10
+Report 10<br/>
 fonte: http://www.quotidianosanita.it/allegati/allegato518309.pdf
 
-Report 9
+Report 9<br/>
 fonte: http://www.quotidianosanita.it/allegati/allegato2705653.pdf
 
-Report 8
+Report 8<br/>
 fonte: http://www.quotidianosanita.it/allegati/allegato2705653.pdf
 
 
