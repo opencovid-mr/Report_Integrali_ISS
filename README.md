@@ -14,6 +14,13 @@ fonte: http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegat
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5152_1_file.pdf
 
 ### Report da estrarre
+
+Report 27<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_notizie_5182_0_file.pdf
+
+Report 20<br/>
+fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-10/covid-19-cts-verbale-112-20201005.pdf
+
 Report 19<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-09/covid-19-cts-verbale-109-20200926.pdf
 
