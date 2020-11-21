@@ -4,19 +4,19 @@ Estrazione dei dati dei Report Integrali ISS (Sorveglianza Integrata COVID-19)
 
 ### Report già estratti
 
-[Report 26](https://github.com/opencovid-mr/Report_Integrali_ISS/blob/main/csv/Report26.csv)<br/>
+[Report 27 - (9-15 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report27.csv)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_notizie_5182_0_file.pdf
+
+[Report 26 - (2-8 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report26.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5169_1_file.pdf
 
-[Report 25](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report25.csv)<br/>
+[Report 25 - (26 ottobre - 1 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report25.csv)<br/>
 fonte: http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegati/DATI_MONITORAGGIO_9_11_2020.pdf
 
-[Report 24](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report24.csv)<br/>
+[Report 24 - (19-25 ottobre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report24.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5152_1_file.pdf
 
 ### Report da estrarre
-
-Report 27<br/>
-fonte: http://www.salute.gov.it/imgs/C_17_notizie_5182_0_file.pdf
 
 Report 20<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-10/covid-19-cts-verbale-112-20201005.pdf
