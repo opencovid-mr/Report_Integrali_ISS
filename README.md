@@ -5,7 +5,7 @@ Estrazione dei dati dei Report Integrali ISS (Sorveglianza Integrata COVID-19)
 ### Report già estratti
 
 [Report 26](https://github.com/opencovid-mr/Report_Integrali_ISS/blob/main/csv/Report26.csv)<br/>
-fonte: http://www.quotidianosanita.it/allegati/allegato9364458.pdf
+fonte: http://www.salute.gov.it/imgs/C_17_notizie_5169_1_file.pdf
 
 [Report 25](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report25.csv)<br/>
 fonte: http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegati/DATI_MONITORAGGIO_9_11_2020.pdf
