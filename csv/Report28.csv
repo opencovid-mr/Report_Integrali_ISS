@@ -1,0 +1,22 @@
+Regione,1.1 (settimana precedente),1.1 (settimana di riferimento),1.2,1.3,1.4,2.1 (settimana di riferimento),2.1 (settimana precedente),2.2,2.3,2.4,2.5,Tot RU,2.6,Trasmissione non gestibile,3.1,3.2 (MED),3.2 (CI INF),3.2 (CI SUP),3.4,3.5 (nuovi focolai),3.6,3.8,3.9,Probabilità,Impatto,Classificazione Rischio,Classificazione Alta e/o equiparata ad Alta per 3 o più settimane consecutive,Note
+Abruzzo,79.8,81.7,100,100,99.3,37.30%,37.4%,3,3,0.9,0.8,1.7,81.40%,Si,-4.2,1.06,1.01,1.1,-8.9,402,5434,39%,50%,Alta,Alta,Alta,Si,
+Basilicata,70.9,87,100,100,100,12.80%,12.7%,6,0,2.7,4.8,7.6,100.0%,No,9.3,1.21,1.1,1.32,3.1,18,25,21%,36%,Moderata,Bassa,Moderata con probabilità alta di progressione a rischio Alto,No,
+Calabria,30.8,20.3,100,100,70.9,16.40%,12.6%,3,Non calcolabile,0.9,0.6,1.5,95.0%,No,44.7,0.92,0.83,1.01,21.3,22,131,28%,50%,Non valutabile,Alta,Non valutabile (equiparato a Rischio Alto),Si,Il dato di Rt è verosimilmente sottostimato (vedi indicatore 1.1).
+Campania,93.1,93,99.9,99.5,84.5,16.70%,15.9%,1,Non calcolabile,0.4,0.7,1.1,96.6%,No,3.4,1,0.97,1.04,-8.5,881,2542,34%,43%,Moderata,Alta,Alta,Si,
+Emilia-Romagna,100,100,100,100,99.3,28.80%,25.7%,2,Non calcolabile,0.9,1.4,2.4,73.6%,No,0.6,1.07,1.06,1.09,-8.9,96,9423,34%,49%,Moderata,Alta,Alta,Si,Rilevato un forte ritardo di notifica dei casi nel flusso ISS
+Friuli-Venezia Giulia,91.8,93.4,99.9,100,99.7,34.30%,29.6%,4,2,1,1.2,2.3,91.7%,No,11.6,1.09,1.04,1.13,18.2,733,1760,31%,44%,Moderata,Alta,Alta,No,
+Lazio,92.1,92.9,99.8,100,75.7,30%,33.9%,4,3,0.9,1,1.8,85.4%,No,-0.5,0.88,0.85,0.9,-8.6,275,570,37%,52%,Bassa,Alta,Moderata,No,
+Liguria,65.9,70.4,100,100,97.1,13.10%,17.4%,4,Non calcolabile,0.6,1.4,2,72.7%,No,-31.6,0.76,0.73,0.79,-31.5,401,270,53%,63%,Bassa,Alta,Moderata,No,
+Lombardia,65.7,76.3,99.9,100,98,41.20%,45.4%,6,Non calcolabile,0.8,0.9,1.7,66.5%,No,-15.3,1.17,1.16,1.17,-17.3,3700,22871,64%,53%,Moderata,Alta,Alta,Si,
+Marche,99.8,99.8,94.9,90.5,100,26.80%,30.4%,2,1,0.8,1.5,2.3,100.0%,No,-27.6,0.93,0.86,1,-27.4,196,1463,46%,47%,Bassa,Alta,Moderata con probabilità alta di progressione a rischio Alto,No,
+Molise,99.6,94.4,100,100,100,13.50%,14.3%,-1,-1,1.5,2.2,3.6,100.0%,No,65.3,1.17,0.88,1.5,18.2,32,0,29%,28%,Moderata,Bassa,Moderata con probabilità alta di progressione a rischio Alto,No,
+Piemonte,95.5,95.2,99.9,99.8,98.6,22.90%,30.0%,9,2,1,1.6,2.6,92.0%,No,-12.9,0.89,0.88,0.9,-20.8,2575,4602,64%,88%,Bassa,Alta,Moderata con probabilità alta di progressione a rischio Alto,No,
+Provincia Autonoma di Bolzano/Bozen,84.5,89.7,99.5,100,98.4,58.20%,56.90%,6,4,0.9,1.4,2.3,100.0%,No,-6.7,1,0.96,1.04,-13.4,171,765,52%,100.00%,Bassa,Alta,Alta,Si,
+Provincia Autonoma di Trento,99.9,99.9,100,100,92.5,19.80%,23.1%,3,Non calcolabile,1.1,1.6,2.7,95.0%,No,-7,0.81,0.75,0.88,-20.3,30,1043,47%,72%,Bassa,Alta,Moderata con probabilità alta di progressione a rischio Alto,No,Rilevato un forte ritardo di notifica dei casi nel flusso ISS
+Puglia,95.5,95.6,99.9,100,100,35.30%,33.4%,6,4,0.9,1.4,2.3,92.0%,No,3.8,0.99,0.96,1.02,-3.7,95,5071,45%,45%,Bassa,Alta,Alta,Si,
+Sardegna,67.3,67.1,99.4,100,97.7,16%,14.6%,8,3,0.5,1.6,2.1,67.6%,No,13.3,0.71,0.65,0.77,-19.3,269,261,40%,34%,Moderata,Alta,Alta,Si,Rilevato un forte ritardo di notifica dei casi nel flusso ISS
+Sicilia,81.9,82.6,99.8,100,98.6,9.50%,9.90%,3,Non calcolabile,0.3,0.9,1.2,83.6%,No,13,1.04,1.01,1.07,-13.4,372,5602,29%,38%,Moderata,Bassa,Moderata,No,
+Toscana,99.7,91.6,100,100,99.7,23.90%,25.5%,0,2,2.2,1.7,3.9,96.6%,No,-7,1.2,1.17,1.22,-13.8,720,8184,48%,35%,Moderata,Alta,Alta,Si,
+Umbria,59.2,69.5,100,100,99.2,20.90%,25.1%,4,2,1.5,3.1,4.6,90.3%,No,-26.5,0.74,0.71,0.77,-32.5,16,2373,55%,51.00%,Bassa,Alta,Moderata,No,
+Valle d'Aosta/Vallée d'Aoste,78.5,86.9,100,100,99.7,25.70%,35.0%,4,1,1.1,2.9,3.9,84.2%,No,-30.2,0.99,0.92,1.07,-31.8,44,66,38%,68%,Bassa,Moderata,Moderata con probabilità alta di progressione a rischio Alto,No,
+Veneto,87.8,85.8,100,100,100,44.20%,40.5%,2,1,1,1.8,2.8,91.9%,No,0.9,1.2,1.17,1.22,-0.6,4302,5085,30%,39%,Moderata,Bassa,Moderata con probabilità alta di progressione a rischio Alto,No,
