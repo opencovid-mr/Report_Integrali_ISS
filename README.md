@@ -7,25 +7,36 @@ Estrazione dei dati dei Report Integrali ISS (Sorveglianza Integrata COVID-19)
 [Report 30 - (30 novembre - 6 dicembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report30.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5216_1_file.pdf
 
-[Report 29 - (23-29 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report29.csv)<br/>
+[Report 29 - (23 novembre-29 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report29.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5209_0_file.pdf
 
-[Report 28 - (16-22 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report28.csv)<br/>
+[Report 28 - (16 novembre -22 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report28.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5196_1_file.pdf
 
-[Report 27 - (9-15 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report27.csv)<br/>
+[Report 27 - (9 novembre -15 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report27.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5182_0_file.pdf
 
-[Report 26 - (2-8 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report26.csv)<br/>
+[Report 26 - (2 novembre -8 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report26.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5169_1_file.pdf
 
 [Report 25 - (26 ottobre - 1 novembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report25.csv)<br/>
 fonte: http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegati/DATI_MONITORAGGIO_9_11_2020.pdf
 
-[Report 24 - (19-25 ottobre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report24.csv)<br/>
+[Report 24 - (19 ottobre -25 ottobre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report24.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5152_1_file.pdf
 
 ### Report da estrarre
+
+Report 33 - (21 dicembre - 27 dicembre 2020)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_notizie_5247_1_file.pdf
+
+Report 32 - (14 dicembre - 20 dicembre 2020)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_notizie_5241_1_file.pdf
+
+Report 31 - (7 dicembre - 13 dicembre 2020)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_notizie_5226_1_file.pdf
+
+---
 
 Report 20<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-10/covid-19-cts-verbale-112-20201005.pdf
