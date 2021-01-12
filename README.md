@@ -37,6 +37,8 @@ Report 31 - (7 dicembre - 13 dicembre 2020)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5226_1_file.pdf
 
 ---
+Report 23<br/>
+fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/2020-10/covid-19-cts-verbale-121-20201024.pdf
 
 Report 20<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/raw/master/2020-10/covid-19-cts-verbale-112-20201005.pdf
