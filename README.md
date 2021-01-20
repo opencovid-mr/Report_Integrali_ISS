@@ -4,6 +4,9 @@ Estrazione dei dati dei Report Integrali ISS (Sorveglianza Integrata COVID-19)
 
 ### Report già estratti
 
+[Report 34 - (28 dicembre 2020 - 3 gennaio 2021)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report34.csv)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_notizie_5259_1_file.pdf
+
 [Report 33 - (21 dicembre - 27 dicembre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report33.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5247_1_file.pdf
 
@@ -39,8 +42,7 @@ fonte: http://www.salute.gov.it/imgs/C_17_notizie_5152_1_file.pdf
 Report 35 - (4 gennaio - 10 gennaio 2021)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5268_0_file.pdf
 
-Report 34 - (28 dicembre 2020 - 3 gennaio 2021)<br/>
-fonte: http://www.salute.gov.it/imgs/C_17_notizie_5259_1_file.pdf
+
 
 
 ---
