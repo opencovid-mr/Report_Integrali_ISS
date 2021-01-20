@@ -1,0 +1,13 @@
+Report,settimana_da,settimana_a,agg_epi,agg_ospedali,agg_rt_puntuale,note,fonte
+24,19/10/20,25/10/20,27/10/20,nd,nd,,http://www.salute.gov.it/imgs/C_17_notizie_5152_1_file.pdf
+25,26/10/20,01/11/20,09/11/20,nd,nd,,http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegati/DATI_MONITORAGGIO_9_11_2020.pdf
+26,02/11/20,08/11/20,11/11/20,11/11/20,,,http://www.salute.gov.it/imgs/C_17_notizie_5169_1_file.pdf
+27,09/11/20,15/11/20,18/11/20,17/11/20,04/11/20,,http://www.salute.gov.it/imgs/C_17_notizie_5182_0_file.pdf
+28,16/11/20,22/11/20,25/11/20,24/11/20,nd,,http://www.salute.gov.it/imgs/C_17_notizie_5196_1_file.pdf
+29,23/11/20,29/11/20,02/12/20,01/12/20,18/11/20,,http://www.salute.gov.it/imgs/C_17_notizie_5209_0_file.pdf
+30,30/11/20,06/12/20,09/12/20,08/12/20,25/11/20,,http://www.salute.gov.it/imgs/C_17_notizie_5216_1_file.pdf
+31,07/12/20,13/12/20,16/12/20,15/12/20,02/12/20,,http://www.salute.gov.it/imgs/C_17_notizie_5226_1_file.pdf
+32,14/12/20,20/12/20,22/12/20,21/12/20,08/12/20,data agg_ospedali ricavata da http://www.salute.gov.it/imgs/C_17_notizie_5241_0_file.pdf,http://www.salute.gov.it/imgs/C_17_notizie_5241_1_file.pdf
+33,21/12/20,27/12/20,29/12/20,28/12/20,15/12/20,,http://www.salute.gov.it/imgs/C_17_notizie_5247_1_file.pdf
+34,28/12/20,03/01/21,05/01/21,04/01/20,22/12/20,,http://www.salute.gov.it/imgs/C_17_notizie_5259_1_file.pdf
+35,04/01/21,10/01/21,13/01/20,12/01/21,30/12/20,,http://www.salute.gov.it/imgs/C_17_notizie_5268_0_file.pdf
