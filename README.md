@@ -4,6 +4,9 @@ Estrazione dei dati dei Report Integrali ISS (Sorveglianza Integrata COVID-19)
 
 ### Report già estratti
 
+[Report 35 - (4 gennaio - 10 gennaio 2021)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report35.csv)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_notizie_5268_0_file.pdf
+
 [Report 34 - (28 dicembre 2020 - 3 gennaio 2021)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report34.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5259_1_file.pdf
 
@@ -37,15 +40,9 @@ fonte: http://www.salute.gov.it/portale/news/documenti/Epi_aggiornamenti/allegat
 [Report 24 - (19 ottobre -25 ottobre 2020)](https://raw.githubusercontent.com/opencovid-mr/Report_Integrali_ISS/main/csv/Report24.csv)<br/>
 fonte: http://www.salute.gov.it/imgs/C_17_notizie_5152_1_file.pdf
 
-### Report da estrarre
-
-Report 35 - (4 gennaio - 10 gennaio 2021)<br/>
-fonte: http://www.salute.gov.it/imgs/C_17_notizie_5268_0_file.pdf
-
-
-
-
 ---
+
+### Report da estrarre
 
 Report 23<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/2020-10/covid-19-cts-verbale-121-20201024.pdf
@@ -83,7 +80,7 @@ fonte: http://www.quotidianosanita.it/allegati/allegato2705653.pdf
 Report 8<br/>
 fonte: http://www.quotidianosanita.it/allegati/allegato2705653.pdf
 
-
+---
 
 I dati sono estratti in maniera semi-automatica tramite [Tabula](https://tabula.technology/) e pertanto non sono da ritenersi ufficiali, per i quali si rimanda alle fonti sopra indicate.
 
