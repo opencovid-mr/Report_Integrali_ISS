@@ -44,6 +44,24 @@ fonte: http://www.salute.gov.it/imgs/C_17_notizie_5152_1_file.pdf
 
 ### Report da estrarre
 
+Report 40 - (8 febbraio - 14 febbraio 2021)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_monitoraggi_45_0_fileNazionale.pdf
+
+Report 39 - (1 febbraio - 7 febbraio 2021)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_monitoraggi_44_0_fileNazionale.pdf
+
+Report 38 - (25 gennaio - 31 gennaio 2021)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_monitoraggi_17_0_fileNazionale.pdf
+
+Report 37 - (18 gennaio - 24 gennaio 2021)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_monitoraggi_15_0_fileNazionale.pdf
+
+Report 36 - (11 gennaio - 17 gennaio 2021)<br/>
+fonte: http://www.salute.gov.it/imgs/C_17_monitoraggi_13_0_fileNazionale.pdf
+
+
+---
+
 Report 23<br/>
 fonte: https://github.com/pcm-dpc/COVID-19-Verbali-CTS/blob/master/2020-10/covid-19-cts-verbale-121-20201024.pdf
 
